@@ -1,4 +1,4 @@
-# Student-course-enrollment-system
+# Student-course-registration-system
 A console-based Course Registration System built in **C++** using core Data Structures concepts. The system manages students, courses, enrollments, and waitlists through an interactive menu-driven interface.
 
 ---
